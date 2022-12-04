@@ -1,0 +1,13 @@
+.App {
+  width: 100%;
+  min-height: 100vh
+}
+
+.form-circle {
+  border-radius: 50%;
+  background-color: red;
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+  position: absolute;
+}
